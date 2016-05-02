@@ -13,6 +13,8 @@ public class ActionsMenuView extends ViewBase {
 
     @Override
     public void render() {
-        
+
+        this.sprite.
+
     }
 }
